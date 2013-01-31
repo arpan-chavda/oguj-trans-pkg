@@ -1,0 +1,9 @@
+Package: oguj-trans-pkg
+Version: 2.1
+Section: base
+Priority: optional
+Architecture: all
+Depends: language-pack-gu, language-pack-gu-base
+Maintainer: Arpan Chavda <codejarcc@gmail.com>
+Description: Gujarati translation package
+ This is a translation package made for OpenGujarat GNU/Linux OS

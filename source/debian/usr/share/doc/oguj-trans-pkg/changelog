@@ -1,0 +1,6 @@
+oguj-trans-pkg (2.1)
+
+  * Made Debian package lintian clean.
+  * Added more translation files.
+
+ -- Arpan Chavda <codejarcc@gmail.com>  2012-06-06
