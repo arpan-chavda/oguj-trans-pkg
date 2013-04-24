@@ -1,6 +1,7 @@
 Package: oguj-trans-pkg
 Version: 2.1
 Section: base
+Installed-Size: 672
 Priority: optional
 Architecture: all
 Depends: language-pack-gu, language-pack-gu-base
