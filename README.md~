@@ -12,7 +12,7 @@
 
 	`sudo apt-get install language-pack-name`
 
-**You can use any reference language to translate in your langauge,but you must know portable format of internationalization.**
+###You can use any reference language to translate in your langauge,but you must know portable format of internationalization.
 
 ##Steps for translations
 
